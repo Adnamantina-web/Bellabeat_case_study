@@ -83,7 +83,7 @@ KPIs globales sobre los 32 usuarios y 31 días analizados:
 ## ⚙️ Cómo reproducir el análisis
 
 ```bash
-git clone <URL-DE-TU-REPOSITORIO>
+git clone <(https://github.com/Adnamantina-web/Bellabeat_case_study)>>
 cd bellabeat-data-analysis
 pip install -r requirements.txt
 ```
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 1. Descarga el dataset desde [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit) y descomprime los CSV en `data/raw/`.
 2. Ejecuta `notebooks/01_limpieza_transformacion.ipynb` de principio a fin → genera los CSV limpios en `data/processed/data_clean/`.
 3. Ejecuta `notebooks/02_eda.ipynb` para reproducir el análisis exploratorio y los insights.
-4. Abre `tableau/bellabeat_dashboard.twbx` con [Tableau Public/Desktop](https://www.tableau.com/products/public) para explorar el dashboard interactivo.
+4. Abre `tableau/bellabeat_dashboard.twbx` con [Tableau Public/Desktop]([https://www.tableau.com/products/public](https://public.tableau.com/app/profile/bego.a.armillas.alonso/viz/Bellabeat_case_estudy/Dashboard1)) para explorar el dashboard interactivo.
 
 ## 📈 Dashboard
 
@@ -104,4 +104,4 @@ Código y notebooks bajo licencia [MIT](LICENSE). El dataset es propiedad de sus
 ## 🙋 Autor
 
 Proyecto Capstone del **Google Data Analytics Certificate**.
-*(Añade aquí tu nombre y enlace a LinkedIn/portfolio.)*
+*(Begoña Armillas Alonso - armillas1976@gmail.com)*
